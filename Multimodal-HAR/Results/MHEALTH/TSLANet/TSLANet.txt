@@ -1,0 +1,29 @@
+=== Validation Best Results ===
+Accuracy: 99.03%
+Precision: 99.09%
+Recall: 99.08%
+F1-score: 99.08%
+FLOPs: 11970048 (11.97M)
+Params: 501132 (0.50M)
+Validation loss: 0.0412
+
+=== Class-wise Performance ===
+Climbing_Stairs - Valid loss: 0.0021, Valid accuracy: 1.0000
+Cycling - Valid loss: 0.0004, Valid accuracy: 1.0000
+Frontal_Elevation_Arms - Valid loss: 0.0176, Valid accuracy: 0.9913
+Jogging - Valid loss: 0.0270, Valid accuracy: 0.9917
+Jump_Front_Back - Valid loss: 0.0000, Valid accuracy: 1.0000
+Knees_Bending - Valid loss: 0.0983, Valid accuracy: 0.9826
+Lying - Valid loss: 0.0000, Valid accuracy: 1.0000
+Running - Valid loss: 0.1202, Valid accuracy: 0.9750
+Sitting - Valid loss: 0.0002, Valid accuracy: 1.0000
+Standing - Valid loss: 0.1329, Valid accuracy: 0.9667
+Waist_Bend - Valid loss: 0.0534, Valid accuracy: 0.9910
+Walking - Valid loss: 0.0163, Valid accuracy: 0.9917
+
+=== Test Set Performance ===
+test_loss: 0.0729
+test_accuracy: 98.73%
+test_precision: 0.9884
+test_recall: 0.9880
+test_f1: 0.9880

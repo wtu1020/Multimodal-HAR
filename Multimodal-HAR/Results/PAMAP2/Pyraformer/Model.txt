@@ -1,0 +1,29 @@
+=== Validation Best Results ===
+Accuracy: 97.41%
+Precision: 97.21%
+Recall: 97.11%
+F1-score: 97.15%
+FLOPs: 72185600 (72.19M)
+Params: 1207276  (1.21M)
+Validation loss: 0.1526
+
+=== Class-wise Performance ===
+cycling - Valid loss: 0.2526, Valid accuracy: 0.9851
+down - Valid loss: 0.3649, Valid accuracy: 0.9342
+ironing - Valid loss: 0.1012, Valid accuracy: 0.9733
+lying - Valid loss: 0.0007, Valid accuracy: 1.0000
+nordic_walk - Valid loss: 0.0647, Valid accuracy: 0.9868
+rope_jump - Valid loss: 0.0852, Valid accuracy: 0.9574
+run - Valid loss: 0.3152, Valid accuracy: 0.9595
+sit - Valid loss: 0.1741, Valid accuracy: 0.9701
+stand - Valid loss: 0.0911, Valid accuracy: 0.9721
+up - Valid loss: 0.1582, Valid accuracy: 0.9719
+vacuum - Valid loss: 0.2916, Valid accuracy: 0.9607
+walk - Valid loss: 0.0766, Valid accuracy: 0.9824
+
+=== Test Set Performance ===
+test_loss: 0.1440
+test_accuracy: 97.25%
+test_precision: 0.9740
+test_recall: 0.9691
+test_f1: 0.9714

@@ -1,0 +1,25 @@
+=== Validation Best Results ===
+Accuracy: 98.56%
+Precision: 98.59%
+Recall: 98.55%
+F1-score: 98.57%
+FLOPs: 36143104 (36.14M)
+Params: 185000 (0.18M)
+Validation loss: 0.0534
+
+=== Class-wise Performance ===
+stand - Valid loss: 0.0364, Valid accuracy: 0.9929
+bow - Valid loss: 0.1148, Valid accuracy: 0.9692
+sit - Valid loss: 0.0411, Valid accuracy: 0.9888
+squat - Valid loss: 0.0537, Valid accuracy: 0.9867
+up - Valid loss: 0.0110, Valid accuracy: 0.9954
+down - Valid loss: 0.0363, Valid accuracy: 0.9882
+walk - Valid loss: 0.0864, Valid accuracy: 0.9762
+run - Valid loss: 0.0517, Valid accuracy: 0.9870
+
+=== Test Set Performance ===
+test_loss: 0.0826
+test_accuracy: 97.76%
+test_precision: 0.9779
+test_recall: 0.9775
+test_f1: 0.9776
